@@ -2,7 +2,7 @@ alert("Número secreto: o jogo.");
 let NumeroMaximo=200;
 let NumeroSecreto = parseInt(Math.random() * NumeroMaximo+1);
 
-let chute = prompt('Escolha um número entre 1 e 100');
+let chute = prompt('Escolha um número entre 1 e 200');
 
 let tentativas = 1;
 
